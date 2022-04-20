@@ -36,3 +36,15 @@
 .icon-github:before {
   content: "\eab0";
 }
+.icon-home3:before {
+  content: "\e902";
+}
+.icon-phone:before {
+  content: "\e942";
+}
+.icon-menu:before {
+  content: "\e9bd";
+}
+.icon-earth:before {
+  content: "\e9ca";
+}
